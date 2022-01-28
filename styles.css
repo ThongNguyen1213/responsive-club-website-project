@@ -1,0 +1,102 @@
+html{
+    background-color: blanchedalmond;
+}
+
+.nav{
+    background-color: rgb(128, 150, 48);
+    height: 50px;
+    display: block;
+    display:flex;
+    align-items:flex-end;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a{
+    color: blanchedalmond;
+    text-decoration: none;
+    margin-left: 40px;
+}
+
+.header{
+    margin:200px 0px;
+    text-align: center;
+}
+.header h1{
+    background-color: rgb(66, 71, 62);
+    color: blanchedalmond;
+    padding: 25px 0px;
+    
+}
+.introduction h3{
+    color: rgb(175, 34, 121);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.introduction p{
+    color: rgb(100, 97, 96);
+    font-size: 20px;
+}
+.images{
+    margin: 90px 0px;
+    text-align: center;
+}
+.images img{
+    height: 350px;
+    width: 500px;
+    padding-left: 50px;
+}
+.quote{
+    background-color: rgb(128, 150, 48);
+    height: 200px;
+   font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+    color: rgb(255, 243, 79);
+}
+.quote h2 {
+    padding-top:30px;
+    padding-left: 10px;
+}
+.quote p{
+    padding-left: 20px;
+}
+
+.more-images img{
+    height: 350px;
+    width: 500px;
+    padding-left: 50px;
+}
+.more-images{
+    margin: 90px 0px;
+    text-align: center;
+}
+.last-statement{
+    text-align: center;
+    color:rgb(138, 132, 49);
+    font-size: 25px;
+}
+.last-statement img{
+    width: 900px;
+    height:1000px;
+}
+footer{
+    background-color: rgb(128, 150, 48);
+    height: 50px;
+    display: block;
+    display:flex;
+    align-items:flex-end;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+}
+footer a{
+    color: blanchedalmond;
+    text-decoration: none;
+    margin-left: 40px;
+}
